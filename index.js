@@ -24,7 +24,7 @@ function init() {
     },
     {
       type: "input",
-      message: "How do you test you app?",
+      message: "How do you test your app?",
       name: "test",
     },
     {
